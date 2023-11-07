@@ -1,0 +1,15 @@
+C:\Users\cd14\Desktop\IvanSotoExam\bin\Debug\net6.0\IvanSotoExam.exe
+C:\Users\cd14\Desktop\IvanSotoExam\bin\Debug\net6.0\IvanSotoExam.deps.json
+C:\Users\cd14\Desktop\IvanSotoExam\bin\Debug\net6.0\IvanSotoExam.runtimeconfig.json
+C:\Users\cd14\Desktop\IvanSotoExam\bin\Debug\net6.0\IvanSotoExam.dll
+C:\Users\cd14\Desktop\IvanSotoExam\bin\Debug\net6.0\IvanSotoExam.pdb
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\IvanSotoExam.csproj.AssemblyReference.cache
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\IvanSotoExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\IvanSotoExam.AssemblyInfoInputs.cache
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\IvanSotoExam.AssemblyInfo.cs
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\IvanSotoExam.csproj.CoreCompileInputs.cache
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\IvanSotoExam.dll
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\refint\IvanSotoExam.dll
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\IvanSotoExam.pdb
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\IvanSotoExam.genruntimeconfig.cache
+C:\Users\cd14\Desktop\IvanSotoExam\obj\Debug\net6.0\ref\IvanSotoExam.dll
